@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Janzokk
 - 👀 I’m interested in learning programming to make videogames (as my dream job//hobbie)
-- 🌱 I’m currently learning java at school
+- 🌱 I’m currently learning android studio at school
 - 📫 How to reach me @gmail -> jperezg@inscastellet.cat
